@@ -2,7 +2,8 @@
 🌱 I’m currently learning JS, HTML, NodeJS as well.<br>
  🤔 I’m looking for help with bad girls but lit.<br>
  💬 Ask me about no please ty.<br>
- ⚡ Fun fact: I'm introvert.
+ ⚡ Fun fact: I'm introvert.<br>
+ [Steam](https://steamcommunity.com/id/demeterthu/)
 <!--
 **demeterthu/demeterthu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
