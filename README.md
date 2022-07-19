@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+🌱 I’m currently learning JS, HTML, NodeJS as well.
+ 🤔 I’m looking for help with bad girls but lit.
+ 💬 Ask me about no please ty.
+ ⚡ Fun fact: I'm introvert.
 <!--
 **demeterthu/demeterthu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
