@@ -2,8 +2,9 @@
 🌱 I’m currently learning JS, HTML, NodeJS as well.<br>
  🤔 I’m looking for help with bad girls but lit.<br>
  💬 Ask me about no please ty.<br>
- ⚡ Fun fact: I'm introvert.
- #### :video_game:[Steam](https://steamcommunity.com/id/demeterthu/)<br>
+ ⚡ Fun fact: I'm introvert.<br>
+ #### 
+ :video_game:[Steam](https://steamcommunity.com/id/demeterthu/)<br>
  :notebook:[Facebook](https://www.facebook.com/dmtthu/)<br>
  :bicyclist:[Instagram](https://www.instagram.com/demeter.thu/)<br>
 <!--
