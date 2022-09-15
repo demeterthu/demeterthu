@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **JavaScript, C++, NodeJS**
 
-- 📫 How to reach me **tsuyoshithuxcrosz@gmail.com**
+- 📫 How to reach me **tsuyoshithuxcrosz@gmail.com**, **s6035512073@phuket.psu.ac.th**
 
 - ⚡ Fun fact **Funny guy with Great smile**
 
