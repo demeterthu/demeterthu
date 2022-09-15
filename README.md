@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
+<a href="https://steamcommunity.com/id/demeterthu/" target="blank"><img align="center" src="https://camo.githubusercontent.com/377692d9f019f07d675d93ebc55f7d7251a53bc9a78e3d256883661640ef4f37/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f737465616d2e737667" alt="demeter thu" height="30" width="40" /></a>
 <a href="https://www.facebook.com/dmtthu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="demeter thu" height="30" width="40" /></a>
 <a href="https://instagram.com/demeter.thu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="demeter.thu" height="30" width="40" /></a>
 </p>
